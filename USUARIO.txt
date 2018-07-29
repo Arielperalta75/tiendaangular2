@@ -1,3 +1,2 @@
-email: ariel@email.com  contraseña: ariel 
-email: juan@email.com 
-contraseña: juan
+email: luis@email.com
+contraseña: 12345

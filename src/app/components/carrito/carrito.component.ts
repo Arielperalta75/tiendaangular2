@@ -51,7 +51,7 @@ export class CarritoComponent implements OnInit {
     }
   //=============Pagar Carrito==================================================
   pagarCarrito(){
-    this.http.get('https://tienda-angular2-6c29e.firebaseio.com/.json') //Realizar una consulta a la base de datos
+    this.http.get('https://tienda-angular2-6c29e.firebaseio.com/productos/.json') //Realizar una consulta a la base de datos
     .map((response : Response) => {
         this.catalogo =  response.json() //Asignar el valor obtenido en la consulta al arreglo de objetos catalogo
       }

@@ -18,7 +18,6 @@ import { DetalleProductoComponent } from './components/tienda/detalle-producto/d
 //==============================================================================
 
 export const firebaseConfig = {
-  // Initialize Firebase
     apiKey: "AIzaSyDaqJesX4PyHEkDwLYliPHgEO1KbT5d1rs",
     authDomain: "tienda-angular2-6c29e.firebaseapp.com",
     databaseURL: "https://tienda-angular2-6c29e.firebaseio.com",
