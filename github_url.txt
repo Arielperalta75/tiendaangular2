@@ -1,1 +1,1 @@
-github_url.txt
+https://github.com/Arielperalta75/tiendaangular2
